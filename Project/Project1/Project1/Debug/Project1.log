@@ -1,0 +1,27 @@
+﻿  Trie.cpp
+d:\apcs\cs163\project\project1\project1\trie.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(53): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(87): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(92): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(107): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(131): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(140): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(144): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(167): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(176): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(180): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(200): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(209): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(213): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(237): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(246): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(250): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(330): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(418): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(494): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs163\project\project1\project1\trie.cpp(563): warning C4018: '<': signed/unsigned mismatch
+  Inputdata.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\APCS\CS163\Project\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\APCS\CS163\Project\Project1\Debug\Project1.pdb (Partial PDB)

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{B1891B62-76E8-4ED6-9061-C9FFD1488D68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2", "Project2\Project2.vcxproj", "{5B79A2BE-2049-4609-BB69-977AD5F2D485}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project3", "Project3\Project3.vcxproj", "{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project4", "Project4\Project4.vcxproj", "{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Debug|x64.ActiveCfg = Debug|x64
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Debug|x64.Build.0 = Debug|x64
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Debug|x86.Build.0 = Debug|Win32
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Release|x64.ActiveCfg = Release|x64
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Release|x64.Build.0 = Release|x64
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Release|x86.ActiveCfg = Release|Win32
+		{B1891B62-76E8-4ED6-9061-C9FFD1488D68}.Release|x86.Build.0 = Release|Win32
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Debug|x64.ActiveCfg = Debug|x64
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Debug|x64.Build.0 = Debug|x64
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Debug|x86.Build.0 = Debug|Win32
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Release|x64.ActiveCfg = Release|x64
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Release|x64.Build.0 = Release|x64
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Release|x86.ActiveCfg = Release|Win32
+		{5B79A2BE-2049-4609-BB69-977AD5F2D485}.Release|x86.Build.0 = Release|Win32
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Debug|x64.ActiveCfg = Debug|x64
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Debug|x64.Build.0 = Debug|x64
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Debug|x86.Build.0 = Debug|Win32
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Release|x64.ActiveCfg = Release|x64
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Release|x64.Build.0 = Release|x64
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Release|x86.ActiveCfg = Release|Win32
+		{DA195E5E-13DA-4EF9-B12E-89D25D3D7063}.Release|x86.Build.0 = Release|Win32
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Debug|x64.ActiveCfg = Debug|x64
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Debug|x64.Build.0 = Debug|x64
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Debug|x86.Build.0 = Debug|Win32
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Release|x64.ActiveCfg = Release|x64
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Release|x64.Build.0 = Release|x64
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Release|x86.ActiveCfg = Release|Win32
+		{E3A5A246-A123-4EFC-8A3B-D78C09FD6AE6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3B24719-990B-4083-AC93-FDAE1E49B862}
+	EndGlobalSection
+EndGlobal

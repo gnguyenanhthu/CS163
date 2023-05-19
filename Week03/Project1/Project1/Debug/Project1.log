@@ -1,0 +1,7 @@
+﻿  Function.cpp
+d:\apcs\cs163\week03\project1\project1\function.cpp(35): warning C4715: 'BSTree::insert': not all control paths return a value
+d:\apcs\cs163\week03\project1\project1\function.cpp(135): warning C4715: 'BSTree::maximum': not all control paths return a value
+d:\apcs\cs163\week03\project1\project1\function.cpp(123): warning C4715: 'BSTree::minimum': not all control paths return a value
+d:\apcs\cs163\week03\project1\project1\function.cpp(150): warning C4715: 'BSTree::findkey': not all control paths return a value
+  Project1.vcxproj -> D:\APCS\CS163\Week03\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\APCS\CS163\Week03\Project1\Debug\Project1.pdb (Partial PDB)
